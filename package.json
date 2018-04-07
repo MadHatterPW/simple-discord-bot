@@ -1,0 +1,13 @@
+{
+    "name": "8ball-bot",
+    "version": "1.0.0",
+    "description": "8-ball Bot",
+    "main": "bot.js",
+    "author": "Avelludo",
+    "dependencies": {
+        "discord.io": "^2.5.3"
+    },
+    "scripts": {
+        "start": "bot.js"
+    }
+}
